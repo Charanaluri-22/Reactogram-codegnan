@@ -35,7 +35,6 @@ $ cd frontend && npm install
 ```javascript
 MONGO_URI= // mongodb://
 JWT_SECRET= // random string://
-HOME_URL= // http://localhost:3000
 ```
 
 > In the root directory of  front end run  the following command
