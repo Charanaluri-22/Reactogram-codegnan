@@ -12,9 +12,9 @@
 - Database: <a href="https://github.com/Automattic/mongoose">`MongoDB`</a>
 ---
 
-##Live Demo
+## Live Demo
 
--You can see the demo at `https://insta.charanaluridev.tech/login`
+- [Click me to watch Live Demo] (https://insta.charanaluridev.tech)
 
 ## Installation - Development
 
