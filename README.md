@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-- [Click me to watch Live Demo] (https://insta.charanaluridev.tech)
+- [Click the link to watch Live Demo] (https://insta.charanaluridev.tech)
 
 ## Installation - Development
 
